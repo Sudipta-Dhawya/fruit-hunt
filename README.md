@@ -1,4 +1,5 @@
-## Fruit Hunt
+## Fruit Hunt 
+## Author :-Sudipta Dhawya.
 
 This Android app is built in "def hacks() 2018" hackathon at Microsoft headquarters.
 
